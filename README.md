@@ -1,0 +1,1 @@
+This is a very very simple NodeJS API with the basic routes for a CRUD application. You can run this code by using the `npm run dev` command. I recommend running a mongodb container locally if you want to actually create some data: `docker run --name mongodb -p 27017:27017 -d mongo`. 
